@@ -1,0 +1,9 @@
+{
+  "name": "aws-lama",
+  "version": "0.0.1-alpha",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "type-is": "^1.6.18"
+  }
+}
